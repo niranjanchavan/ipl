@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+"matches":[
+{
+  "unique_id": 123,
+   "date":"2020-09-21T00:00.000Z",
+   "dateTimeGMT": "2020-09-21T14:00:00:000Z",
+   "team-1":"MI",
+   "team-2":"DC",
+   "type": "T20",
+   "squad": true,
+   "toss_winner_team":"MI",
+   "winner_team":"DC",
+   "matchStarted":true
+
+},
+
+{
+  "unique_id": 124,
+   "date":"2020-08-21T00:00.000Z",
+   "dateTimeGMT": "2020-08-21T14:00:00:000Z",
+   "team-1":"CSK",
+   "team-2":"RCB",
+   "type": "T20",
+   "squad": true,
+   "toss_winner_team":"CSK",
+   "winner_team":"RCB",
+   "matchStarted":true
+
+},
+
+]
 }
